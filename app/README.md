@@ -28,3 +28,9 @@ This branch contains the **Streamlit version** of the Solar Data Dashboard, allo
 git clone <your-repo-url>
 cd <your-repo-folder>
 git checkout streamlit
+
+Dashboard Preview
+
+Here’s a preview of the Solar Data Dashboard:
+
+![Solar Dashboard](dashboard_screenshots/dashboard.png)
